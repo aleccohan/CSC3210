@@ -4,8 +4,8 @@
 ## Business Rules
 __Product to Transaction Details__
 1. Each product is included in many transaction details.
-2. Each transaction detail includes 1 product
+2. Each transaction detail includes one product
 
 __Transaction Details to Transaction__
-1. 
-2. 
+1. Each Transaction Detail
+2. Each Transaction
